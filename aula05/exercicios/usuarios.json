@@ -1,0 +1,9 @@
+{"usuarios":
+    [
+        {"id":1, "nome":"Adriano", "email":"adrianobendazzoli911@gmail.com"},
+        {"id":2, "nome":"Beatriz", "email":"krisanbeatriz@gmail.com"},
+        {"id":3, "nome":"Byanca", "email":"byancalourenco@gmail.com"},
+        {"id":4, "nome":"Ana Clara", "email":"anarivas@gmail.com"},
+        {"id":5, "nome":"Gabriely", "email":"gabrielysantosp7@gmail.com"}
+    ]
+}
